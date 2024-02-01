@@ -1,0 +1,17 @@
+.headerContainer {
+  padding: 1rem;
+  margin-top: 2rem;
+}
+.headerheading {
+  font-family: "Poppins", sans-serif;
+  font-weight: 800;
+  font-size: 2rem;
+  color: black;
+}
+.headerParagraph {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-size: 1rem;
+  color: black;
+  width: 80%;
+}
